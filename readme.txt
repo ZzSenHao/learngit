@@ -7,5 +7,4 @@ Git tracks changes of files.
 <<<<<<< HEAD
 master分支编写内容
 =======
-1.新分支内编写内容
 >>>>>>> feature
