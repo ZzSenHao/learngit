@@ -8,3 +8,4 @@ Git tracks changes of files.
 2.编写一行内容
 3.开始测试，输入一行内容
 4.开发第四行内容
+5.添加第五行。
